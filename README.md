@@ -3,7 +3,7 @@
 #### textimg directive
 
 This directive is designed to format images and text to the playable style guide for cards. This directive takes nine values:
-
+=========================================
 * header =  specifies the header and takes a string value.
 * headerstyle = reformates the header and takess css styling in a string formate e.g (background-color:black).
 * imagesrc = takes a string the equivalent to what is typically given to an ng-src directive.
